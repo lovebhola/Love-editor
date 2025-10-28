@@ -1,0 +1,5 @@
+{
+  "name": "Love Editor",
+  "description": "An intuitive and feature-rich photo editing app that allows users to manually adjust their images with precision using basic tools, a diverse set of filters, and a powerful AI-driven object removal feature powered by Gemini.",
+  "requestFramePermissions": []
+}
